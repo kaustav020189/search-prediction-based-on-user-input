@@ -1,0 +1,75 @@
+    body{
+        background: #e9e9e9
+    }
+    img{
+        max-width: 100%;
+    }
+    #wrapper{
+        margin: 50px auto;text-align: center;width: 65%;height: auto;background: #fff;
+        border: 1px solid #ccc;padding-bottom: 50px
+    }
+    
+    #wrapper_heading2{
+        height: 70px;margin: 50px 15% 0 15%;font-size: 28px;color: #3b589c
+    }
+    
+    #tab{
+        width: 515px;margin: 0 auto;padding: 0;text-align: center;height: auto;overflow: auto;
+        border: 1px solid #eee
+    }
+    
+    #tab .records{
+        display: block;width: 99%;margin: 2px auto;padding: 0;height: auto;overflow: auto;
+    }
+    
+    #tab .records:hover{
+        background: #f3f6fe
+    }
+    
+    #tab .records img{
+        margin: 0;padding: 5px;float: left;max-width: 15%;
+    }
+    
+    #tab .records .r_i{
+        float: right;width: 80%;text-align: left;padding: 5px
+    }
+    
+    #tab .records .r_i h2{
+        margin: 0 0 7px 0;padding: 0;width: 95%;color: #3b589c;font-weight: normal
+    }
+    
+    #tab .records .r_i span{
+        display: block;margin: 0 0 0 3px;width: 95%;color: #aaa
+    }
+    
+    .heading{
+        background: yellowgreen;color: #fff;font-size: 18px
+    }
+    
+    .inputs{
+        margin: 50px auto 0 auto;border: 1px solid #e5e5e5;
+        height: 30px;width: 500px;padding-left: 20px;color: #3b589c;outline: 0;
+        
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+    }
+    label{
+        font-size: 18px;color: #777
+    }
+    #note{
+        color: #aaa;margin-top: 10px;display: block
+    }
+    #result{
+        width: 100%;padding-top: 50px;font-size: 22px;letter-spacing: 1px;line-height: 25px;color: #999    
+    }
+    
+    #share{
+        position: fixed;z-index: 9999;top: 50px;left: 20px;width: 200px;height: 500px;background: #fff;
+        border: 1px solid #ccc
+    }
+    ul li{
+        display: block;margin: 30px auto
+    }
+
+
